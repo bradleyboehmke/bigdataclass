@@ -1,0 +1,13 @@
+wifi: rstudioconf19
+pass: tidyverse
+
+link to server: rstd.io/class
+
+page: https://sol-eng.shinyapps.io/class/
+identifier: bigdata-with-r
+
+URL: http://ec2-18-219-70-7.us-east-2.compute.amazonaws.com:80/
+User: rstudio-user
+
+Password: BigDataClass2019
+
